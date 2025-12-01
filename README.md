@@ -10,8 +10,8 @@ Its an assignment :(
   - [x] What the weird front switch is for
 - [x] Figure out IDE to use and what platform
 - [x] Figure out how to print to console (check console print branch [here](https://github.com/Imnotndesh/embedded-move-demo/tree/console-print))
-- [ ] Figure out how to print to console on button invoke
-- [ ] Figure out pins and how they are structured in the demo board
+- [x] Figure out how to print to console on button invoke
+- [ ] Figure out daughter board and which pins match to what in the main board
 - [ ] Plan out what how to connect to dotter board (library or protocol......idk)
 - [ ] Make it move
 - [ ] Yaay you are done
